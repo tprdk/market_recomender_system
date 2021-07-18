@@ -1,0 +1,9 @@
+similar_user : 50 recommendation_count : 10 acc :27.578551571031422
+similar_user : 50 recommendation_count : 15 acc :38.902778055561114
+similar_user : 50 recommendation_count : 20 acc :50.1030020600412
+similar_user : 75 recommendation_count : 10 acc :27.61255225104502
+similar_user : 75 recommendation_count : 15 acc :38.43876877537551
+similar_user : 75 recommendation_count : 20 acc :49.442988859777195
+similar_user : 100 recommendation_count : 10 acc :27.816556331126623
+similar_user : 100 recommendation_count : 15 acc :38.0767615352307
+similar_user : 100 recommendation_count : 20 acc :48.94897897957959
